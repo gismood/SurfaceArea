@@ -34,3 +34,7 @@ nosetests.xml
 .project
 .pydevproject
 
+# Compiled QT Designer files
+resources_rc.py
+ui_surfacearea.py
+
